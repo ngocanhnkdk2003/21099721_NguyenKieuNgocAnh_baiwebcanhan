@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F5DAD2;
+}
+.intro {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+.intro img{
+    width: 70vh;
+    justify-content: center;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    display: flex; 
+    padding: 20px;
+}
+.tinhcach{
+    flex: 1;
+    Width: 500px;
+    margin: 40px auto 0 40px;
+    padding: 20px;
+    background-color: #FFEDD8;
+    border-radius: 5px; /* gọt viền */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* độ bóng */
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+.gioithieu{
+    margin-left: -50px;
+    flex: 1;
+    Width: 500px;
+    margin: 40px auto 0 40px;
+    padding: 20px;
+    background-color: #FFEDD8;
+    border-radius: 5px; /* gọt viền */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* độ bóng */
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+.sothich{ 
+    margin-right: 40px;;
+    flex: 1;
+    Width: 500px;
+    margin: 40px auto 0 40px;
+    padding: 20px;
+    background-color: #FFEDD8;
+    border-radius: 5px; /* gọt viền */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* độ bóng */
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+.form{
+    display: flex; 
+}
+.thongtin{
+    margin-right: 40px;;
+    flex: 1;
+    Width: 500px;
+    margin: 40px auto 0 40px;
+    padding: 20px;
+    background-color: #FFEDD8;
+    border-radius: 5px; /* gọt viền */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* độ bóng */
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+.cauhoi{
+    margin-right: 40px;;
+    flex: 1;
+    Width: 500px;
+    margin: 40px auto 0 40px;
+    padding: 20px;
+    background-color: #FFEDD8;
+    border-radius: 3px; /* gọt viền */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* độ bóng */
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+.footer{
+    margin-left: 50px;
+}
